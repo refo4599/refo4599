@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Typing Animation Header -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Ahmed+Refaat+%F0%9F%91%8B;Backend+Developer+%7C+Laravel+%26+.NET;Building+Scalable+Web+Applications;Open+to+Work+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Hi+there%2C+I'm+Ahmed+Refaat+%F0%9F%91%8B;Full+Stack+.NET+Developer+%F0%9F%87%AA%F0%9F%87%AC;ASP.NET+Core+%7C+Angular+%7C+SQL+Server;Building+Scalable+Web+Applications+%F0%9F%9A%80;Open+to+Work+(Onsite+%7C+Hybrid+%7C+Remote))](https://git.io/typing-svg)
 
 <!-- Visitor Counter -->
 ![Visitor Count](https://komarev.com/ghpvc/?username=refo4599&style=for-the-badge&color=0ea5e9&label=PROFILE+VIEWS)
@@ -13,14 +13,15 @@
 ## 🧑‍💻 About Me
 
 ```yaml
-Name        : Ahmed Refaat AbdEl Hafiz
-Role        : Junior / Mid-Level Backend Developer
-Experience  : ~1.5 Years
-Location    : Egypt 🇪🇬
+Name        : Ahmed Refaat AbdElHafiz
+Role        : Junior Full Stack .NET Developer
+Location    : Cairo, Egypt 🇪🇬
 Status      : 🟢 Open to Work (Onsite | Hybrid | Remote)
-Stacks      : PHP Laravel · ASP.NET Core · Web API
-Learning    : Scalable System Design · Advanced Backend Patterns
-Training    : ITI Graduate — .NET Track
+Education   : B.Sc. Computer Science — Assiut University
+Training    : ITI Graduate — Full Stack .NET Track (Jul–Dec 2025)
+Experience  : Freelance Full Stack .NET Developer (Jan 2025 – Present)
+Stack       : ASP.NET Core · Angular · SQL Server · Clean Architecture
+English     : Professional Working Proficiency
 ```
 
 ---
@@ -29,8 +30,10 @@ Training    : ITI Graduate — .NET Track
 
 ### 👨‍💻 Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,dotnet,cs" />
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
 </p>
+
+> ASP.NET Core · Web API · Entity Framework Core
 
 ### 🎨 Frontend
 <p>
@@ -39,21 +42,27 @@ Training    : ITI Graduate — .NET Track
 
 ### 🗄️ Database
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=mysql,mssql" />
 </p>
 
-### ⚙️ Tools & Technologies
+> SQL Server · MySQL
+
+### ⚙️ Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode,docker" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,visualstudio,vscode" />
 </p>
+
+> Git · GitHub · Swagger · Postman · Visual Studio
 
 ### 🧠 Concepts & Patterns
-![REST API](https://img.shields.io/badge/REST_API-0EA5E9?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0369A1?style=for-the-badge)
-![SOLID](https://img.shields.io/badge/SOLID_Principles-0EA5E9?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT_Auth-0369A1?style=for-the-badge)
-![SignalR](https://img.shields.io/badge/SignalR-0EA5E9?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/EF_Core-0369A1?style=for-the-badge)
+
+![OOP](https://img.shields.io/badge/OOP-0EA5E9?style=for-the-badge)
+![SOLID](https://img.shields.io/badge/SOLID_Principles-0369A1?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-0EA5E9?style=for-the-badge)
+![REST API](https://img.shields.io/badge/RESTful_APIs-0369A1?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT_Auth-0EA5E9?style=for-the-badge)
+![SignalR](https://img.shields.io/badge/SignalR-0369A1?style=for-the-badge)
+![Agile](https://img.shields.io/badge/Agile%2FScrum-0EA5E9?style=for-the-badge)
 
 ---
 
@@ -61,10 +70,10 @@ Training    : ITI Graduate — .NET Track
 
 | 🚀 Project | 📝 Description | 🛠️ Stack |
 |---|---|---|
-| 🏋️ **[Gymunity](https://github.com/MohamedElsharif22/ITI.Gymunity.FP.Solution)** | Fitness subscription platform with payments & real-time features | ASP.NET Core · Angular · SignalR · Paymob |
-| 🎓 **EduConnect** | E-learning platform with exams, chat & teacher dashboard | ASP.NET Core · Angular · SignalR · Clean Arch |
-| 📦 **Warehouse Management** | Desktop inventory system with invoicing & multi-warehouse support | .NET · SQL Server |
-| 🍔 **FoodVerse** | Restaurant ordering & reservation web app with admin dashboard | Laravel / .NET · Angular |
+| 🏋️ **[Gymunity](https://github.com/MohamedElsharif22/ITI.Gymunity.FP.Solution)** | Fitness subscription & coaching platform — JWT auth, Paymob/PayPal payments, real-time features | ASP.NET Core · Angular · SignalR · JWT · Clean Arch |
+| 🎓 **EduConnect** | E-learning platform with course enrollment, exams, real-time chat & subscription model | ASP.NET Core · Angular · SignalR · EF Core · SQL Server |
+| 📦 **Warehouse Management** | Desktop app for multi-warehouse inventory, invoicing, treasury & financial reporting | C# · Windows Forms · SQL Server · EF Core |
+| 🍔 **FoodVerse** | Restaurant system with menu browsing, cart, online ordering, reservations & admin dashboard | ASP.NET Core MVC · EF Core · SQL Server · Bootstrap |
 
 ---
 
@@ -72,9 +81,9 @@ Training    : ITI Graduate — .NET Track
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=refo4599&show_icons=true&theme=github_dark&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=refo4599&show_icons=true&theme=github_dark&border_color=0ea5e9&title_color=0ea5e9&icon_color=0ea5e9" height="165"/>
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refo4599&layout=compact&theme=github_dark&border_color=0ea5e9&title_color=0ea5e9&hide_border=false" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=refo4599&layout=compact&theme=github_dark&border_color=0ea5e9&title_color=0ea5e9" height="165"/>
 
 </div>
 
@@ -96,7 +105,7 @@ Training    : ITI Graduate — .NET Track
 
 ---
 
-## 🐍 Contribution Graph
+## 🐍 Contribution Snake
 
 <div align="center">
 
@@ -113,6 +122,7 @@ Training    : ITI Graduate — .NET Track
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ahmed_Refaat-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ahmed-refaat-526aa4238/)
 [![Gmail](https://img.shields.io/badge/Gmail-ahmedrefaatabdelhafiz4599-EA4335?style=for-the-badge&logo=gmail)](mailto:ahmedrefaatabdelhafiz4599@mail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-refo4599-181717?style=for-the-badge&logo=github)](https://github.com/refo4599)
+[![Phone](https://img.shields.io/badge/WhatsApp-+201128848326-25D366?style=for-the-badge&logo=whatsapp)](tel:+201128848326)
 
 </div>
 

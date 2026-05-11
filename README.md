@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ahmed Refaat AbdElHafiz</h1>
+<h1 align="center"> Ahmed Refaat AbdElHafiz</h1>
 <h3 align="center">Junior Full Stack .NET Developer from Egypt 🇪🇬</h3>
 <p align="center">
 Passionate about building scalable web applications using ASP.NET Core & Angular
